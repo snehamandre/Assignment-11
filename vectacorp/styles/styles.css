@@ -1,0 +1,52 @@
+.nav-item.active {
+   background-color: #000000!important;
+}
+
+.navbar {
+   padding: 0;
+}
+
+.navbar-brand {
+   margin-left: 20px;
+}
+
+
+#myCarousel{
+   margin-bottom: 20px;
+}
+
+.Main-hold
+{
+    position: relative;
+}
+
+.menu
+{
+   
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   z-index: 10;
+}
+.carousel-indicators li
+{
+   width: 10px;
+   height: 10px;
+   border-radius: 100%;
+}
+.nav-cus
+{
+margin: 30px;
+
+}
+.col-8 h4{
+   text-align: center;
+ }
+.scrollspy{
+   position: relative;
+   height: 200px;
+   margin-top: 0.5rem;
+   overflow: auto;
+ }
+
